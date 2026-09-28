@@ -1,10 +1,15 @@
 func twoSum(nums []int, target int) []int {
+    mp := make(map[int]int)
+
     for i := 0; i < len(nums); i++ {
-        for j:= i+1; j < len(nums); j++ {
-            if nums[i] + nums[j] == target {
-                return [] int{i, j};
-            }
+        val, exists := mp[target - nums[i]]
+
+        if exists {
+            return []int{i, val}
+        } else {
+            mp[nums[i]] = i
         }
     }
-    return [] int{0, 0}
+
+    return []int{0, 0}
 }
