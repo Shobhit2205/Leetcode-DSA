@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/1512-number-of-good-pairs) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3434-maximum-frequency-after-subarray-operation](https://github.com/Shobhit2205/Leetcode-DSA/tree/master/3434-maximum-frequency-after-subarray-operation) |
